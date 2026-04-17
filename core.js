@@ -840,7 +840,7 @@ const LabApp = () => {
       <div className="max-w-7xl mx-auto space-y-6">
         <header className="flex flex-col md:flex-row justify-between items-center gap-4 bg-slate-900 p-6 rounded-3xl border border-slate-800 shadow-2xl">
             <div>
-                <h1 className="text-3xl font-black text-white">超感物理模拟实验室 <span className="text-blue-500 text-lg">v2.0</span></h1>
+                <h1 className="text-3xl font-black text-white">物理实验室2.0 <span className="text-blue-500 text-lg">v2.0</span></h1>
                 <p className="text-slate-500 text-xs mt-1 font-bold">高精度物理引擎 · 实时能量观测 · 全感官联动交互</p>
             </div>
             <nav className="flex bg-slate-950 p-1.5 rounded-2xl border border-slate-800">
